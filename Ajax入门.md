@@ -15,6 +15,7 @@ Ajax: 全称Asynchronous JavaScript And XML，异步的JavaScript和XML。其作
 
 
 
+
 ### 1.1.2 Ajax作用
 
 我们详细的解释一下Ajax技术的2个作用
@@ -32,6 +33,7 @@ Ajax: 全称Asynchronous JavaScript And XML，异步的JavaScript和XML。其作
   ![1669105041533](assets/1669105041533.png)  
 
  
+
 
 ### 1.1.3 同步异步
 
