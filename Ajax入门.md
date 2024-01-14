@@ -341,7 +341,7 @@ axios.post("http://yapi.smart-xwork.cn/mock/169327/emp/deleteById","id=1").then(
 
 ### 1.3.4 案例
 
-- 需求：基于Vue及Axios完成数据的动态加载展示，如下图所示
+- 需求：基于Vue及Axios完成数据的动态加载展示，如下图
 
   ![1669139756551](assets/1669139756551.png) 
 
